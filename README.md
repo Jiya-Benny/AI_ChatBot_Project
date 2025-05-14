@@ -1,6 +1,6 @@
 # 🛐 OCMS Chatbot – AI-Powered Church Management Assistant
 
-![Chatbot Screenshot](./screenshots/chatbot-ui.png)
+![Screenshot 2025-05-14 215430](https://github.com/user-attachments/assets/d8b4b733-4347-428a-8e00-548bb1db2482)
 
 ## 📌 Project Overview
 
